@@ -1,0 +1,35 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input {
+    border: none;
+    border-radius: 10px;
+}
+
+button {
+    background-color: #1d3557;
+    padding: 10px 5px 10px 5px;
+    border: none;
+    margin-left: 10px;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+
+.clean {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.genAndConvert {
+    margin-left: 0px;
+}
